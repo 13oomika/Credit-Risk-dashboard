@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project analyzes credit risk using SQL and Power BI. The data was cleaned using SQL and visualized in an interactive Power BI dashboard.
+![Credit Risk Dashboard](image.png)
 
 ## Tools Used
 - SQL
